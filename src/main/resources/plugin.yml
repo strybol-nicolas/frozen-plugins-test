@@ -1,0 +1,5 @@
+name: frozen-plugins-test
+author: XLGamerAddict
+version: 0.1
+main: be.xlga.plugin.ConfigPlugin
+description: Tasks given by Badger :D
