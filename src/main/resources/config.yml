@@ -1,0 +1,4 @@
+# Config file for the given tasks
+# Version 0.1
+
+motd: 'This is the MOTD soft-coded!'
